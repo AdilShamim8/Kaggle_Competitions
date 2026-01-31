@@ -1,5 +1,6 @@
 <div align="center">
-> # `Kaggle Competitions`
+    
+# Kaggle Competitions
     
 ![Kaggle](https://img.shields.io/badge/Kaggle-Competitions-20BEFF?logo=kaggle&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
