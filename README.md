@@ -1,7 +1,6 @@
-> # `Kaggle Competitions`
-
 <div align="center">
-
+> # `Kaggle Competitions`
+    
 ![Kaggle](https://img.shields.io/badge/Kaggle-Competitions-20BEFF?logo=kaggle&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Deep%20Learning-FF6F00?logo=tensorflow&logoColor=white)
