@@ -1,8 +1,5 @@
 > # `Kaggle Competitions`
 
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="200" alt="Detective">
-
-
 <div align="center">
 
 ![Kaggle](https://img.shields.io/badge/Kaggle-Competitions-20BEFF?logo=kaggle&logoColor=white)
@@ -135,3 +132,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 *"The best way to learn is by competing."*
 
 </div>
+
+
+
+
+<!-- <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="200" alt="Detective"> -->
