@@ -10,8 +10,6 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-orange?logo=pytorch)
 ![HuggingFace](https://img.shields.io/badge/🤗-Transformers-yellow)
 
-**Part of the "Secure Your AI" series of competitions by the European Space Agency**
-
 [🏆 Competition Link](https://www.kaggle.com/competitions/fake-or-real-the-impostor-hunt) | [📊 Dataset](https://www.kaggle.com/competitions/fake-or-real-the-impostor-hunt/data)
 
 </div>
