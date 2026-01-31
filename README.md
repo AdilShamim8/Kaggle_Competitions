@@ -33,10 +33,10 @@
 
 This repository contains my solutions and approaches to various Kaggle competitions. Each competition folder includes:
 
-- 📓 Jupyter notebooks with complete solution code
-- 📖 Detailed README explaining the approach
-- 🔧 Model architectures and training configurations
-- 📈 Results and performance metrics
+-  Jupyter notebooks with complete solution code
+-  Detailed README explaining the approach
+-  Model architectures and training configurations
+-  Results and performance metrics
 
 ---
 
@@ -48,7 +48,7 @@ This repository contains my solutions and approaches to various Kaggle competiti
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Core Frameworks
 - **PyTorch** - Deep learning framework
@@ -70,7 +70,7 @@ This repository contains my solutions and approaches to various Kaggle competiti
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 Kaggle_Competitions/
@@ -84,7 +84,7 @@ Kaggle_Competitions/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -106,23 +106,12 @@ pip install torch transformers datasets pandas numpy scikit-learn optuna
 
 ---
 
-## 📊 Performance Summary
-
-| Metric | Best Achievement |
-|--------|------------------|
-| 🏆 Best Ranking | Top 12% |
-| 📈 Best CV Score | 0.931 |
-| 🤖 Favorite Model | DeBERTa-v3-Large |
-| 🔧 Favorite Technique | Ensemble + Optuna |
-
----
-
-## 🤝 Contributing
+##  Contributing
 
 Feel free to:
-- ⭐ Star this repository if you find it helpful
-- 🐛 Open issues for questions or suggestions
-- 🔀 Fork and submit PRs for improvements
+-  Star this repository if you find it helpful
+-  Open issues for questions or suggestions
+-  Fork and submit PRs for improvements
 
 ---
 
