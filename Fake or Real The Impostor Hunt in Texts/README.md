@@ -66,7 +66,7 @@ Submissions are evaluated using **Pairwise Accuracy** - how well models align wi
 
 ---
 
-## 💡 Solution Approach
+## Solution Approach
 
 ### 5-Head DeBERTa Ensemble
 
@@ -81,7 +81,7 @@ My solution implements a powerful ensemble approach using **5 different DeBERTa-
 
 ---
 
-## 📊 Dataset Description
+## Dataset Description
 
 ### Overview
 
@@ -118,7 +118,7 @@ data/
 
 ---
 
-## 🏗️ Model Architecture
+## Model Architecture
 
 ### DeBERTa-v3-Large Backbone
 
@@ -167,7 +167,7 @@ Final Prediction
 
 ---
 
-## 🔄 Ensemble Methods
+## Ensemble Methods
 
 ### 1. Simple Averaging
 Average probabilities from all 5 models:
@@ -200,7 +200,7 @@ where w1 + w2 + w3 + w4 + w5 = 1
 
 ---
 
-## ⚙️ Training Configuration
+## Training Configuration
 
 ### Hyperparameters
 
@@ -230,7 +230,7 @@ where w1 + w2 + w3 + w4 + w5 = 1
 
 ---
 
-## 📁 File Structure
+## File Structure
 
 ```
 Fake or Real The Impostor Hunt in Texts/
@@ -252,7 +252,7 @@ Fake or Real The Impostor Hunt in Texts/
 
 ---
 
-## 🚀 Usage
+## Usage
 
 ### Prerequisites
 
@@ -281,7 +281,7 @@ id,real_text_id
 
 ---
 
-## ⏰ Timeline
+## Timeline
 
 | Event | Date |
 |-------|------|
@@ -297,19 +297,19 @@ id,real_text_id
 
 ---
 
-## 🏅 Prizes
+## Prizes
 
 | Place | Prize |
 |-------|-------|
-| 🥇 1st | $500 USD |
-| 🥈 2nd | $250 USD |
-| 🥉 3rd | $150 USD |
+|  1st | $500 USD |
+|  2nd | $250 USD |
+|  3rd | $150 USD |
 
 Winners will be invited as co-authors of a joint paper summarizing the competition.
 
 ---
 
-## 👥 Organizers
+## Organizers
 
 The competition was organized on behalf of **ESA** (Evridiki Ntagiou) by:
 
@@ -324,7 +324,7 @@ The competition was organized on behalf of **ESA** (Evridiki Ntagiou) by:
 
 ---
 
-## 📚 References
+## References
 
 1. **DataX Strategy**: E. Ntagiou, J. Eggleston, K. Cichecka, and P. Collins, "DataX: a state of the art data strategy for mission operations", IAC 2024. [Link](https://iafastro.directory/iac/paper/id/89097/summary/)
 
@@ -342,7 +342,7 @@ The competition was organized on behalf of **ESA** (Evridiki Ntagiou) by:
 
 ---
 
-## 📝 Citation
+## Citation
 
 ```bibtex
 @misc{fake-or-real-2025,
@@ -355,12 +355,3 @@ The competition was organized on behalf of **ESA** (Evridiki Ntagiou) by:
   url = {https://kaggle.com/competitions/fake-or-real-the-impostor-hunt}
 }
 ```
-
----
-
-<div align="center">
-
-**Made with ❤️ for the ESA Secure Your AI Competition**
-
-</div>
-
