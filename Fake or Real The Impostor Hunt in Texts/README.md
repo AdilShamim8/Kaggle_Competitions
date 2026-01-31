@@ -1,4 +1,4 @@
-# 🚀 Fake or Real: The Impostor Hunt in Texts
+# Fake or Real: The Impostor Hunt in Texts
 
 <div align="center">
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Competition Overview](#-competition-overview)
 - [My Results](#-my-results)
@@ -34,7 +34,7 @@
 
 ---
 
-## 🎯 Competition Overview
+## Competition Overview
 
 ### Background
 
@@ -42,7 +42,7 @@ ESA's European Space Operations Centre initiated a project to outline a clear di
 
 ### Story
 
-> A company uses LLM(s) to perform operations on official documents (e.g., summarization). Different models are used, and the history of which model performed which operation is not strictly tracked. It was discovered that sometimes models malfunction and may provide harmful output (hallucination, hidden triggers changing facts). Your task as the company's data scientist is to distinguish between real and fake documents.
+> A company uses LLM(s) to perform operations on official documents (e.g., summarization). Different models are used, and the history of which model performed which operation is not strictly tracked. It was discovered that sometimes models malfunction and may provide harmful output (hallucination, hidden triggers, changing facts). Your task as the company's data scientist is to distinguish between real and fake documents.
 
 ### Task
 
@@ -56,13 +56,13 @@ Submissions are evaluated using **Pairwise Accuracy** - how well models align wi
 
 ---
 
-## 🏆 My Results
+## My Results
 
 | Metric | Score |
 |--------|-------|
 | **Private Leaderboard Score** | **114** |
 | **Ranking** | **Top 12%** |
-| **CV Accuracy** | ~0.931 |
+| **CV Accuracy** | ~0.92531 |
 
 ---
 
@@ -363,3 +363,4 @@ The competition was organized on behalf of **ESA** (Evridiki Ntagiou) by:
 **Made with ❤️ for the ESA Secure Your AI Competition**
 
 </div>
+
