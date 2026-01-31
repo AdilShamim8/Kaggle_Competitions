@@ -12,13 +12,13 @@
 
 **A collection of my Kaggle competition solutions, notebooks, and learnings**
 
-[📊 My Kaggle Profile](https://www.kaggle.com/adilshamim8)
+[My Kaggle Profile](https://www.kaggle.com/adilshamim8)
 
 </div>
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [About](#-about)
 - [Competitions](#-competitions)
@@ -29,7 +29,7 @@
 
 ---
 
-## 🎯 About
+##  About
 
 This repository contains my solutions and approaches to various Kaggle competitions. Each competition folder includes:
 
@@ -40,7 +40,7 @@ This repository contains my solutions and approaches to various Kaggle competiti
 
 ---
 
-## 🏅 Competitions
+##  Competitions
 
 | Competition | Description | Result | Approach |
 |-------------|-------------|--------|----------|
@@ -126,13 +126,13 @@ Feel free to:
 
 ---
 
-## 📝 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 📬 Connect
+## Connect
 
 - **Kaggle**: [@adilshamim8](https://www.kaggle.com/adilshamim8)
 - **GitHub**: [@AdilShamim8](https://github.com/AdilShamim8)
