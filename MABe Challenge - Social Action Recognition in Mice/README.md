@@ -13,7 +13,7 @@
 
 **Detect unique behaviors from pose estimates of mice**
 
-[🏆 Competition Link](https://www.kaggle.com/competitions/MABe-mouse-behavior-detection) | [📊 Dataset](https://www.kaggle.com/competitions/MABe-mouse-behavior-detection/data) | [📓 My Kaggle Notebook](https://www.kaggle.com/code/adilshamim8/mabe-challenge/notebook)
+[Competition Link](https://www.kaggle.com/competitions/MABe-mouse-behavior-detection) | [Dataset](https://www.kaggle.com/competitions/MABe-mouse-behavior-detection/data) | [My Kaggle Notebook](https://www.kaggle.com/code/adilshamim8/mabe-challenge/notebook)
 
 </div>
 
@@ -439,3 +439,4 @@ fastdtw           # Template matching
 **🐭 Advancing Behavioral Science Through Machine Learning 🧠**
 
 </div>
+
