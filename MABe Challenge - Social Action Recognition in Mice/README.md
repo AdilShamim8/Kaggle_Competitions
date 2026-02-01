@@ -19,7 +19,7 @@
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Competition Overview](#-competition-overview)
 - [My Results](#-my-results)
@@ -34,7 +34,7 @@
 
 ---
 
-## 🎯 Competition Overview
+## Competition Overview
 
 ### Background
 
@@ -58,7 +58,7 @@ Your work will help scientists automate behavior analysis and better understand 
 
 ---
 
-## 🏆 My Results
+## My Results
 
 | Metric | Score |
 |--------|-------|
@@ -68,7 +68,7 @@ Your work will help scientists automate behavior analysis and better understand 
 
 ---
 
-## 💡 Solution Approach
+## Solution Approach
 
 ### Core Strategy
 
@@ -82,15 +82,15 @@ My solution tackles the MABe challenge by building **separate GBDT ensemble mode
 
 ### Key Innovations
 
-- 🌊 **Wavelet Transform Features** - Multi-scale frequency analysis
-- ⚡ **Physics-Informed Features** - Jerk, angular velocity, kinetic energy
-- 🔄 **Transition Detection Features** - Behavior onset/offset detection
-- 🎯 **Enhanced Pair Interaction Features** - Bearing, time-to-collision
-- 📈 **Relative Physics Features** - Relative velocity, acceleration
+-  **Wavelet Transform Features** - Multi-scale frequency analysis
+-  **Physics-Informed Features** - Jerk, angular velocity, kinetic energy
+-  **Transition Detection Features** - Behavior onset/offset detection
+-  **Enhanced Pair Interaction Features** - Bearing, time-to-collision
+-  **Relative Physics Features** - Relative velocity, acceleration
 
 ---
 
-## 📊 Dataset Description
+## Dataset Description
 
 ### Overview
 
@@ -144,7 +144,7 @@ data/
 
 ---
 
-## 🔧 Feature Engineering
+## Feature Engineering
 
 ### Single Mouse Features
 
@@ -256,7 +256,7 @@ facing_B = |bearing| < π/4
 
 ---
 
-## 🏗️ Model Architecture
+## Model Architecture
 
 ### Ensemble Components
 
@@ -312,7 +312,7 @@ class StratifiedSubsetClassifierWEval:
 
 ---
 
-## 🎯 Prediction Pipeline
+##  Prediction Pipeline
 
 ### Adaptive Thresholding
 
@@ -336,7 +336,7 @@ def robustify(submission):
 
 ---
 
-## 📁 File Structure
+## File Structure
 
 ```
 MABe Challenge - Social Action Recognition in Mice/
@@ -347,7 +347,7 @@ MABe Challenge - Social Action Recognition in Mice/
 
 ---
 
-## ⏰ Timeline
+## Timeline
 
 | Event | Date |
 |-------|------|
@@ -360,13 +360,13 @@ MABe Challenge - Social Action Recognition in Mice/
 
 ---
 
-## 💰 Prizes
+## Prizes
 
 | Place | Prize |
 |-------|-------|
-| 🥇 1st | $20,000 |
-| 🥈 2nd | $10,000 |
-| 🥉 3rd | $8,000 |
+|  1st | $20,000 |
+|  2nd | $10,000 |
+|  3rd | $8,000 |
 | 4th | $7,000 |
 | 5th | $5,000 |
 
@@ -374,7 +374,7 @@ MABe Challenge - Social Action Recognition in Mice/
 
 ---
 
-## 📚 Previous Efforts & Benchmarks
+## Previous Efforts & Benchmarks
 
 This competition builds on previous Multi-Agent Behavior (MABe) Workshops:
 
@@ -388,17 +388,17 @@ All pose and annotation files from CalMS21, MABe22, and CRIM13 are provided as a
 
 ---
 
-## 📖 Code Requirements
+## Code Requirements
 
-- ⏱️ CPU Notebook: ≤ 9 hours
-- ⏱️ GPU Notebook: ≤ 9 hours
-- 🌐 Internet: Disabled
-- 📦 External Data: Publicly available allowed (pre-trained models included)
-- 📄 Output: `submission.csv`
+- CPU Notebook: ≤ 9 hours
+- GPU Notebook: ≤ 9 hours
+- Internet: Disabled
+- External Data: Publicly available allowed (pre-trained models included)
+- Output: `submission.csv`
 
 ---
 
-## 🔧 Dependencies
+## Dependencies
 
 ```python
 # Core
@@ -419,7 +419,7 @@ fastdtw           # Template matching
 
 ---
 
-## 📝 Citation
+## Citation
 
 ```bibtex
 @misc{mabe-challenge-2025,
