@@ -58,9 +58,12 @@ Kaggle_Competitions/
 │   ├── README.md                                       # Detailed solution writeup
 │   └── mabe-challenge.ipynb                            # Main notebook
 │
-└── Fake or Real The Impostor Hunt in Texts/            # ESA NLP Competition
+├── Fake or Real The Impostor Hunt in Texts/            # ESA NLP Competition
+│   ├── README.md                                       # Detailed solution writeup
+│   └── fake-or-real-the-impostor-hunt-in-texts.ipynb   # Main notebook
+└── NeurIPS 2025 - Google Code Golf Championship/       # NeurIPS 2025 Code Golf
     ├── README.md                                       # Detailed solution writeup
-    └── fake-or-real-the-impostor-hunt-in-texts.ipynb   # Main notebook
+    └── google-code-golf-championship-101.ipynb         # Main notebook
 ```
 
 ##  Contributing
