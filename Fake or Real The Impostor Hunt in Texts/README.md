@@ -1,6 +1,6 @@
-# Fake or Real: The Impostor Hunt in Texts
-
 <div align="center">
+
+# Fake or Real: The Impostor Hunt in Texts
 
 ![Kaggle Competition](https://img.shields.io/badge/Kaggle-Competition-blue?logo=kaggle)
 ![ESA](https://img.shields.io/badge/ESA-European%20Space%20Agency-navy)
@@ -353,3 +353,4 @@ The competition was organized on behalf of **ESA** (Evridiki Ntagiou) by:
   url = {https://kaggle.com/competitions/fake-or-real-the-impostor-hunt}
 }
 ```
+
