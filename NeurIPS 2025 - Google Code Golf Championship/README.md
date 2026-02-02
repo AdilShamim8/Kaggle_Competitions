@@ -10,7 +10,7 @@
 
 **Implement a variety of programs using the fewest number of characters!**
 
-[🏆 Competition Link](https://www.kaggle.com/competitions/google-code-golf-2025) | [📊 Dataset](https://www.kaggle.com/competitions/google-code-golf-2025/data) | [📓 My Kaggle Notebook](https://www.kaggle.com/code/adilshamim8/google-code-golf-championship-101/notebook)
+[Competition Link](https://www.kaggle.com/competitions/google-code-golf-2025) | [Dataset](https://www.kaggle.com/competitions/google-code-golf-2025/data) | [My Kaggle Notebook](https://www.kaggle.com/code/adilshamim8/google-code-golf-championship-101/notebook)
 
 </div>
 
@@ -233,5 +233,6 @@ Members of the top three winning teams will also be invited to collaborate with 
 **Shorter code, stronger generalization.**
 
 </div>
+
 
 
