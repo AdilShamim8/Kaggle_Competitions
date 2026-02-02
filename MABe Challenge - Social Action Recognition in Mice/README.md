@@ -1,6 +1,6 @@
-# 🐭 MABe Challenge - Social Action Recognition in Mice
-
 <div align="center">
+
+# 🐭 MABe Challenge - Social Action Recognition in Mice
 
 ![Kaggle Competition](https://img.shields.io/badge/Kaggle-Competition-blue?logo=kaggle)
 ![Prize Pool](https://img.shields.io/badge/Prize%20Pool-$50,000-green)
@@ -439,4 +439,5 @@ fastdtw           # Template matching
 **🐭 Advancing Behavioral Science Through Machine Learning 🧠**
 
 </div>
+
 
