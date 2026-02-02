@@ -1,7 +1,6 @@
+<div align="center">
 
 # NeurIPS 2025 - Google Code Golf Championship
-
-<div align="center">
 
 ![Kaggle Competition](https://img.shields.io/badge/Kaggle-Competition-blue?logo=kaggle)
 ![NeurIPS](https://img.shields.io/badge/NeurIPS-2025-purple)
@@ -234,4 +233,5 @@ Members of the top three winning teams will also be invited to collaborate with 
 **Shorter code, stronger generalization.**
 
 </div>
+
 
