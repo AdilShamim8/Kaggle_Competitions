@@ -409,7 +409,7 @@ Papers are scored 0-5 in each category:
 
 ---
 
-## Your Public Notebook
+## My Public Notebook
 
 **Comprehensive Solution Notebook:**  
 [View on Kaggle](https://www.kaggle.com/code/adilshamim8/arc-prize-2025-comprehensive-solution/notebook)
@@ -448,3 +448,4 @@ The ARC Prize 2025 represents one of the most challenging competitions in AI, pu
 - ✅ Created complete end-to-end solution pipeline
 
 The competition continues to drive innovation in AI reasoning and problem-solving capabilities.
+
