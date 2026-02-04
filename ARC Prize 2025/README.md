@@ -19,7 +19,6 @@
 - [Timeline](#timeline)
 - [Prize Structure](#prize-structure)
 - [Resources & References](#resources--references)
-- [Contact & Links](#contact--links)
 
 ---
 
@@ -437,5 +436,6 @@ The ARC Prize 2025 represents one of the most challenging competitions in AI, pu
 - ✅ Created complete end-to-end solution pipeline
 
 The competition continues to drive innovation in AI reasoning and problem-solving capabilities.
+
 
 
