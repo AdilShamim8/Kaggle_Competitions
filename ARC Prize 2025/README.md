@@ -425,17 +425,6 @@ This notebook implements:
 
 ---
 
-## Contact & Links
-
-Feel free to connect and follow my work:
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdilShamim8)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adilshamim8)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/adil_shamim8)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/adilshamim8)
-
----
-
 ## Summary
 
 The ARC Prize 2025 represents one of the most challenging competitions in AI, pushing the boundaries of what modern AI systems can accomplish. By combining symbolic reasoning, neural guidance, and task classification, this solution demonstrates how hybrid approaches can tackle novel reasoning problems. The goal of achieving 85% accuracy and contributing to AGI development remains ambitious yet inspiring.
@@ -448,4 +437,5 @@ The ARC Prize 2025 represents one of the most challenging competitions in AI, pu
 - ✅ Created complete end-to-end solution pipeline
 
 The competition continues to drive innovation in AI reasoning and problem-solving capabilities.
+
 
