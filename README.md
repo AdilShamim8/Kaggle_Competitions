@@ -19,9 +19,7 @@
 
 - [About](#-about)
 - [Competitions](#-competitions)
-- [Tech Stack](#-tech-stack)
 - [Repository Structure](#-repository-structure)
-- [Getting Started](#-getting-started)
 - [License](#-license)
 
 ---
