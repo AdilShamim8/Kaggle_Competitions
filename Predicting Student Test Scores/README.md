@@ -21,7 +21,6 @@
 - [Timeline](#timeline)
 - [Prizes](#prizes)
 - [Resources & References](#resources--references)
-- [Contact & Links](#contact--links)
 
 ---
 
@@ -206,7 +205,7 @@ Advanced feature creation to capture hidden patterns:
 |----------|--------|
 | **Linear Models** | Linear Regression, Ridge, Lasso, ElasticNet |
 | **Tree-Based** | Decision Tree, Random Forest, Extra Trees |
-| **Gradient Boosting** | XGBoost, LightGBM, CatBoost ⭐ |
+| **Gradient Boosting** | XGBoost, LightGBM, CatBoost  |
 | **Other** | KNN, SVR |
 
 **Evaluation:**
@@ -659,17 +658,6 @@ This notebook demonstrates:
 
 ---
 
-## Contact & Links
-
-Feel free to connect and follow my work:
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdilShamim8)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adilshamim8)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/adil_shamim8)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/adilshamim8)
-
----
-
 ## Summary & Key Takeaways
 
 ### Competition Pipeline Achievement
@@ -756,10 +744,4 @@ Kaggle.
 
 ---
 
-## License
-
-Dataset License: **Attribution 4.0 International (CC BY 4.0)**
-
----
-
-**Thank you for exploring this solution! Feel free to fork, adapt, and improve upon this approach. Happy Kaggling! 🚀**
+**Thank you for exploring this solution! Feel free to fork, adapt, and improve upon this approach. Happy Kaggling!**
