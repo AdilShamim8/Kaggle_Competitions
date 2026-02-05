@@ -42,7 +42,8 @@ This repository contains my solutions and approaches to various Kaggle competiti
 | [**NeurIPS 2025 - Google Code Golf Championship**](./NeurIPS%202025%20-%20Google%20Code%20Golf%20Championship/) | Shortest code wins! Google Code Golf at NeurIPS 2025 - Write the most concise programs to solve challenging tasks. | **Top 24%** (Score: 264) | Notebooks to be added |
 | [**MABe Challenge - Social Action Recognition in Mice**](./MABe%20Challenge%20-%20Social%20Action%20Recognition%20in%20Mice/) | Detect unique behaviors from pose estimates of mice across 400+ hours of footage | **Top 11%** (Score: 145) | LightGBM + XGBoost + CatBoost Ensemble with feature engineering |
 | [**Fake or Real: The Impostor Hunt in Texts**](./Fake%20or%20Real%20The%20Impostor%20Hunt%20in%20Texts/) | ESA's "Secure Your AI" series - Identify real vs. fake LLM-generated documents | **Top 12%** (Score: 114) | 5-Head DeBERTa-v3-Large Ensemble with Optuna optimization |
-| [ARC Prize 2025](./ARC%20Prize%202025/)                                        | Advanced Reasoning Challenge - Solve ARC tasks with ML/AI               | **Top 29%** (Score: 413)  | Notebooks to be added        |
+| [**ARC Prize 2025**](./ARC%20Prize%202025/)                                        | Advanced Reasoning Challenge - Solve ARC tasks with ML/AI               | **Top 29%** (Score: 413)  | Notebooks to be added        |
+| [**Predicting Student Test Scores**](./Predicting%20Student%20Test%20Scores/) | Predicting standardized test outcomes for students  | **Top 12%** (Score: 478)  | Notebooks to be added        |
 
 ---
 
@@ -65,9 +66,12 @@ Kaggle_Competitions/
 │   ├── README.md                                       # Detailed solution writeup
 │   └── google-code-golf-championship-101.ipynb         # Main notebook
 │
-└── ARC Prize 2025/                                     # ARC Prize 2025 
-    ├── README.md                                       # Detailed solution writeup
-    └── arc-prize-2025-comprehensive-solution.ipynb     # Main notebook
+├── ARC Prize 2025/                                     # ARC Prize 2025 
+│    ├── README.md                                      # Detailed solution writeup
+│    └── arc-prize-2025-comprehensive-solution.ipynb    # Main notebook
+├── Predicting Student Test Scores/
+   ├── README.md                                        # Detailed solution writeup
+   └── student_test_scores.ipynb                        # Main notebook
 ```
 
 ##  Contributing
