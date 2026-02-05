@@ -69,7 +69,7 @@ Kaggle_Competitions/
 ├── ARC Prize 2025/                                     # ARC Prize 2025 
 │    ├── README.md                                      # Detailed solution writeup
 │    └── arc-prize-2025-comprehensive-solution.ipynb    # Main notebook
-├── Predicting Student Test Scores/
+└── Predicting Student Test Scores/
    ├── README.md                                        # Detailed solution writeup
    └── student_test_scores.ipynb                        # Main notebook
 ```
