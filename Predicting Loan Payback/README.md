@@ -202,7 +202,3 @@ Kaggle merchandise is awarded once per person in this series.
 Yao Yan, Walter Reade, Elizabeth Park. Predicting Loan Payback.
 https://kaggle.com/competitions/playground-series-s5e11, 2025. Kaggle.
 ```
-
----
-
-**Public Notebook:** https://www.kaggle.com/code/adilshamim8/predicting-loan-payback-101
