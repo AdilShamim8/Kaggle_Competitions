@@ -44,6 +44,7 @@ This repository contains my solutions and approaches to various Kaggle competiti
 | [**Fake or Real: The Impostor Hunt in Texts**](./Fake%20or%20Real%20The%20Impostor%20Hunt%20in%20Texts/) | ESA's "Secure Your AI" series - Identify real vs. fake LLM-generated documents | **Top 12%** (Score: 114) | 5-Head DeBERTa-v3-Large Ensemble with Optuna optimization |
 | [**ARC Prize 2025**](./ARC%20Prize%202025/)                                        | Advanced Reasoning Challenge - Solve ARC tasks with ML/AI               | **Top 29%** (Score: 413)  | Notebooks to be added        |
 | [**Predicting Student Test Scores**](./Predicting%20Student%20Test%20Scores/) | Predicting standardized test outcomes for students  | **Top 12%** (Score: 478)  | Notebooks to be added        |
+| [**Predicting Loan Payback**](./Predicting%20Loan%20Payback/)                 | Loan default risk prediction         |  **Top 11%** (Score: 404)       | Notebooks to be added  |
 
 ---
 
@@ -66,12 +67,15 @@ Kaggle_Competitions/
 │   ├── README.md                                       # Detailed solution writeup
 │   └── google-code-golf-championship-101.ipynb         # Main notebook
 │
-├── ARC Prize 2025/                                     # ARC Prize 2025 
-│    ├── README.md                                      # Detailed solution writeup
-│    └── arc-prize-2025-comprehensive-solution.ipynb    # Main notebook
+├── ARC Prize 2025/                                    # ARC Prize 2025 
+│   ├── README.md                                      # Detailed solution writeup
+│   └── arc-prize-2025-comprehensive-solution.ipynb    # Main notebook
 └── Predicting Student Test Scores/
-   ├── README.md                                        # Detailed solution writeup
-   └── student_test_scores.ipynb                        # Main notebook
+│   ├── README.md                                      # Detailed solution writeup
+│   └── student_test_scores.ipynb                      # Main notebook
+└── Predicting Loan Payback/
+   ├── README.md                                     # Detailed solution writeup
+   └── predicting-loan-payback.ipynb                # Main notebook
 ```
 
 ##  Contributing
