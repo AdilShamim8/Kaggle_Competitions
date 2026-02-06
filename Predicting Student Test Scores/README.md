@@ -733,15 +733,4 @@ This notebook demonstrates:
 
 ---
 
-## Citation
-
-```
-Yao Yan, Walter Reade, Elizabeth Park. 
-Predicting Student Test Scores. 
-https://kaggle.com/competitions/playground-series-s6e1, 2025. 
-Kaggle.
-```
-
----
-
 **Thank you for exploring this solution! Feel free to fork, adapt, and improve upon this approach. Happy Kaggling!**
