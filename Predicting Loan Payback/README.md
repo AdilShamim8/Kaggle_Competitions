@@ -1,4 +1,3 @@
-
 # Predicting Loan Payback - Playground Series S5E11
 
 ![Competition](https://img.shields.io/badge/Competition-Playground%20Series%20S5E11-blue)
@@ -22,7 +21,6 @@
 - [Timeline](#timeline)
 - [Prizes](#prizes)
 - [Resources & References](#resources--references)
-- [Contact & Links](#contact--links)
 
 ---
 
@@ -47,7 +45,7 @@
 ## Competition Details
 
 - **Series:** Playground Series - Season 5, Episode 11
-- **Goal:** Predict the probability a borrower pays back a loan
+- **Goal:** Predict the probability that a borrower pays back a loan
 - **Metric:** Area Under the ROC Curve (ROC-AUC)
 - **Start Date:** November 1, 2025
 - **Final Submission Deadline:** November 30, 2025
@@ -58,7 +56,7 @@
 
 ## Problem Description
 
-Given borrower demographics, loan characteristics, and financial indicators, predict `loan_paid_back` for each test row. Predictions must be probabilities between 0 and 1. Performance is measured by ROC-AUC, rewarding good ranking of positives vs negatives across the dataset.
+Given borrower demographics, loan characteristics, and financial indicators, predict `loan_paid_back` for each test row. Predictions must be probabilities between 0 and 1. Performance is measured by ROC-AUC, rewarding a good ranking of positives vs negatives across the dataset.
 
 **Submission format**:
 
@@ -126,7 +124,7 @@ The pipeline expands from 13 original features to **70+ engineered features**, i
 
 - **LightGBM** (GBDT, deep trees, strong regularization)
 - **XGBoost** (hist, deeper trees, stronger regularization)
-- **CatBoost** (logloss, tuned depth and bagging)
+- **CatBoost** (logloss, tuned depth, and bagging)
 
 ### Cross-Validation
 
@@ -204,15 +202,6 @@ Kaggle merchandise is awarded once per person in this series.
 Yao Yan, Walter Reade, Elizabeth Park. Predicting Loan Payback.
 https://kaggle.com/competitions/playground-series-s5e11, 2025. Kaggle.
 ```
-
----
-
-## Contact & Links
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdilShamim8)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adilshamim8)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/adil_shamim8)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/adilshamim8)
 
 ---
 
