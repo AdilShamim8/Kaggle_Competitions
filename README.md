@@ -45,6 +45,7 @@ This repository contains my solutions and approaches to various Kaggle competiti
 | [**ARC Prize 2025**](./ARC%20Prize%202025/)                                        | Advanced Reasoning Challenge - Solve ARC tasks with ML/AI               | **Top 29%** (Score: 413)  | Notebooks to be added        |
 | [**Predicting Student Test Scores**](./Predicting%20Student%20Test%20Scores/) | Predicting standardized test outcomes for students  | **Top 12%** (Score: 478)  | Notebooks to be added        |
 | [**Predicting Loan Payback**](./Predicting%20Loan%20Payback/)                 | Loan default risk prediction         |  **Top 11%** (Score: 404)       | Notebooks to be added  |
+| [**Binary Classification with a Bank Dataset**](./Binary%20Classification%20with%20a%20Bank%20Dataset/) | Predict bank customer responses for targeted marketing | **Top 5%** (Score: 151) | Notebooks to be added |
 
 ---
 
@@ -73,9 +74,12 @@ Kaggle_Competitions/
 └── Predicting Student Test Scores/
 │   ├── README.md                                      # Detailed solution writeup
 │   └── student_test_scores.ipynb                      # Main notebook
-└── Predicting Loan Payback/
-   ├── README.md                                     # Detailed solution writeup
-   └── predicting-loan-payback.ipynb                # Main notebook
+├── Predicting Loan Payback/
+│   ├── README.md                                     # Detailed solution writeup
+│   └── predicting-loan-payback.ipynb                 # Main notebook
+└── Binary Classification with a Bank Dataset/
+    ├── README.md                                     # Detailed solution writeup
+    └── bank-term-deposit-prediction.ipynb            # Main notebook
 ```
 
 ##  Contributing
