@@ -1,4 +1,3 @@
-
 # Binary Classification with a Bank Dataset - Playground Series S5E8
 
 ![Competition](https://img.shields.io/badge/Competition-Playground%20Series%20S5E8-blue)
@@ -22,8 +21,6 @@
 - [Timeline](#timeline)
 - [Prizes](#prizes)
 - [Resources & References](#resources--references)
-- [Contact & Links](#contact--links)
-
 ---
 
 ## Overview
@@ -191,14 +188,3 @@ https://kaggle.com/competitions/playground-series-s5e8, 2025. Kaggle.
 ```
 
 ---
-
-## Contact & Links
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdilShamim8)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adilshamim8)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/adil_shamim8)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/adilshamim8)
-
----
-
-**Public Notebook:** https://www.kaggle.com/code/adilshamim8/bank-term-deposit-prediction
