@@ -46,6 +46,7 @@ This repository contains my solutions and approaches to various Kaggle competiti
 | [**Predicting Student Test Scores**](./Predicting%20Student%20Test%20Scores/) | Predicting standardized test outcomes for students  | **Top 12%** (Score: 478)  | Notebooks to be added        |
 | [**Predicting Loan Payback**](./Predicting%20Loan%20Payback/)                 | Loan default risk prediction         |  **Top 11%** (Score: 404)       | Notebooks to be added  |
 | [**Binary Classification with a Bank Dataset**](./Binary%20Classification%20with%20a%20Bank%20Dataset/) | Predict bank customer responses for targeted marketing | **Top 5%** (Score: 151) | Notebooks to be added |
+| [**Predicting the Beats-per-Minute of Songs**](./Predicting%20the%20Beats-per-Minute%20of%20Songs/) | Predict the tempo (BPM) of songs using audio/music features | **Top 2%** (Score: 38) | Notebooks to be added |
 
 ---
 
@@ -75,11 +76,14 @@ Kaggle_Competitions/
 │   ├── README.md                                      # Detailed solution writeup
 │   └── student_test_scores.ipynb                      # Main notebook
 ├── Predicting Loan Payback/
-│   ├── README.md                                     # Detailed solution writeup
-│   └── predicting-loan-payback.ipynb                 # Main notebook
-└── Binary Classification with a Bank Dataset/
-    ├── README.md                                     # Detailed solution writeup
-    └── bank-term-deposit-prediction.ipynb            # Main notebook
+│   ├── README.md                                      # Detailed solution writeup
+│   └── predicting-loan-payback.ipynb                  # Main notebook
+├── Binary Classification with a Bank Dataset/
+│   ├── README.md                                      # Detailed solution writeup
+│   └── bank-term-deposit-prediction.ipynb             # Main notebook
+└── Predicting the Beats-per-Minute of Songs/
+    ├── README.md                                      # Detailed solution writeup
+    └── predicting-the-beats-per-minute-of-songs-101.ipynb   # Main notebook
 ```
 
 ##  Contributing
