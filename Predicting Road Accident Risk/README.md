@@ -1,4 +1,3 @@
-
 # Predicting Road Accident Risk - Playground Series S5E10
 
 ![Competition](https://img.shields.io/badge/Competition-Playground%20Series%20S5E10-blue)
@@ -22,7 +21,6 @@
 - [Timeline](#timeline)
 - [Prizes](#prizes)
 - [Resources & References](#resources--references)
-- [Contact & Links](#contact--links)
 
 ---
 
@@ -180,23 +178,3 @@ Merchandise is awarded once per person in this series.
 - **Competition Overview:** https://www.kaggle.com/competitions/playground-series-s5e10/overview
 - **Dataset:** https://www.kaggle.com/competitions/playground-series-s5e10/data
 - **Public Notebook:** https://www.kaggle.com/code/adilshamim8/predicting-road-accident-risk-101
-
-**Citation**
-
-```
-Walter Reade and Elizabeth Park. Predicting Road Accident Risk.
-https://kaggle.com/competitions/playground-series-s5e10, 2025. Kaggle.
-```
-
----
-
-## Contact & Links
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdilShamim8)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adilshamim8)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/adil_shamim8)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/adilshamim8)
-
----
-
-**Public Notebook:** https://www.kaggle.com/code/adilshamim8/predicting-road-accident-risk-101
