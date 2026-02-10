@@ -45,6 +45,7 @@ This repository contains my solutions and approaches to various Kaggle competiti
 | [**ARC Prize 2025**](./ARC%20Prize%202025/) | Advanced Reasoning Challenge - Solve ARC tasks with ML/AI | **Top 29%** (Score: 413) | Multi-stage pipeline combining DSL-based symbolic program search (DFS), CNN-based neural-guided program synthesis (SketchPredictor), and adaptive task classification with fallback predictions |
 | [**Predicting Student Test Scores**](./Predicting%20Student%20Test%20Scores/) | Predicting standardized test outcomes for students | **Top 12%** (Score: 478) | Regression with feature engineering, model selection & ensemble strategy, evaluated on RMSE (Playground Series S6E1) |
 | [**Predicting Loan Payback**](./Predicting%20Loan%20Payback/) | Loan default risk prediction | **Top 11%** (Score: 404) | 12-stage feature engineering pipeline (risk, affordability, ratios, bins, interactions), multi-model ensemble with configurable weights and folds, ROC-AUC optimized |
+| [**Predicting Road Accident Risk**](./Predicting%20Road%20Accident%20Risk/) | Predict road accident risk on different road types | **Top 1%** (Score: 29) | XGBoost + LightGBM + CatBoost weighted blending with interaction features (speed_curvature, lanes_speed, curvature_squared), weather+lighting risk flags, and RandomizedSearchCV tuning |
 | [**Binary Classification with a Bank Dataset**](./Binary%20Classification%20with%20a%20Bank%20Dataset/) | Predict bank customer responses for targeted marketing | **Top 5%** (Score: 151) | CatBoost classifier with native categorical handling, 10-fold Stratified CV, GPU training, early stopping, trained on combined competition + original Bank Marketing dataset |
 | [**Predicting the Beats-per-Minute of Songs**](./Predicting%20the%20Beats-per-Minute%20of%20Songs/) | Predict the tempo (BPM) of songs using audio/music features | **Top 2%** (Score: 38) | LightGBM + XGBoost + CatBoost + Random Forest ensemble with weighted blending & Ridge meta-model stacking, rhythm/duration/intensity feature engineering |
 
@@ -80,6 +81,10 @@ Kaggle_Competitions/
 ├── Predicting Loan Payback/                            # Loan Payback Prediction
 │   ├── README.md                                       # Detailed solution writeup
 │   └── predicting-loan-payback.ipynb                   # Main notebook
+│
+├── Predicting Road Accident Risk/                      # Road Accident Risk Prediction
+│   ├── README.md                                       # Detailed solution writeup
+│   └── predicting-road-accident-risk-101.ipynb         # Main notebook
 │
 ├── Binary Classification with a Bank Dataset/          # Bank Term Deposit Prediction
 │   ├── README.md                                       # Detailed solution writeup
