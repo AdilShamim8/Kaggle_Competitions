@@ -127,6 +127,6 @@ Feel free to connect and follow my work:
 
 *"The best way to learn is by competing."*
 
-<!-- <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="200" alt="Detective">  -->
+ <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="200" alt="Detective">  
 
 </div>
