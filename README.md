@@ -124,7 +124,6 @@ Feel free to connect and follow my work:
 <div align="center">
 
 **Happy Kaggling!**
-
 *"The best way to learn is by competing."*
 
 </div>
